@@ -1,0 +1,25 @@
+h1 {
+    color: #440e62;
+}
+
+body {
+    background-color: #a2d39c;
+    color: #440e62;
+}
+
+p {
+    font-size: 19px;
+    text-align: center;
+}
+
+.frannie {
+    width: 10%;
+    float: right;
+}
+
+.maintitle {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: none;
+}
